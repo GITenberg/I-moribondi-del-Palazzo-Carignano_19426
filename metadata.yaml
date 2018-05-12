@@ -1,0 +1,32 @@
+_repo: I-moribondi-del-Palazzo-Carignano_19426
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Petruccelli della Gattina, Ferdinando
+    aliases:
+    - Gattina, Ferdinando Petruccelli della
+    - Della Gattina, Ferdinando Petruccelli
+    birthdate: 1816
+    deathdate: 1890
+    gutenberg_agent_id: '8663'
+    url: http://www.gutenberg.org/2009/agents/8663
+    wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Petruccelli_della_Gattina
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19426'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legislators -- Italy -- Biography'
+- !lcc 'DG'
+- !lcsh 'Italy -- Politics and government -- 1849-1870 -- Anecdotes'
+title: I moribondi del Palazzo Carignano
+url: http://www.gutenberg.org/ebooks/19426
